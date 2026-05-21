@@ -136,11 +136,11 @@ This approach creates a bridge between:
 
 ---
 
-> # Recommended Starting Point
+# Recommended Starting Point
 
 If you are new to attribution modelling:
 
-1. Download the repository ZIP or clone the repo
+1. Download the repository as a ZIP (top right '<> Code' > Click: "Download Zip")
 2. Read docs/setup_guide.pdf
 3. Open docs/attribution modelling walkthrough.pdf
 4. Run each script sequentially inside scripts/core/
