@@ -1,0 +1,151 @@
+backend_user_id,lead_id,quote_id,order_id,created_at,sale_at,status,revenue,margin,call_result,sales_stage,source_system
+ui_6a793a7ae7,lead_MWWYZX4W6X,quote_LPU0DK0G,,2026-03-28 02:44:58,,nurture,0,0,not_interested,qualified,CRM
+be_bffc5c087a,lead_SDS8B25SQ8,quote_CROYR6CC,,2026-03-17 22:02:24,,lost,0,0,not_interested,lost,CRM
+be_898515acdb,lead_FWB0HPMNZ1,quote_UDBFWYJX,,2026-03-15 07:27:45,,lost,0,0,no_answer,qualified,CRM
+ui_c86239d075,lead_W6AHF7VP1I,quote_EIXWC4RT,order_SIFPWIOX,2026-03-06 09:29:32,2026-03-09 19:29:32,won,108.29,42.05,sold_online,closed_won,CRM
+be_722bf03ce5,lead_XLVPYMB5M9,quote_J98CWN2Y,,2026-03-17 01:42:52,,lost,0,0,not_interested,lost,CRM
+ui_4c5bab054a,lead_UDS3QSQCQ3,quote_0O30UBMC,,2026-04-03 09:55:48,,lost,0,0,pending,qualified,CRM
+be_f62fdcf7b6,lead_SOJUV0GYUB,quote_MXNSZOKG,,2026-03-21 12:46:20,,open,0,0,not_interested,qualified,CRM
+ui_e7cbc5350d,lead_H55RBC76UB,quote_7L8V1ZOC,order_UU4YTN02,2026-03-10 08:02:44,2026-03-11 06:02:44,won,588.51,235.94,callback_sold,closed_won,CRM
+ui_a7f5661572,lead_YO4RCB1KJT,quote_GQ01TEE1,,2026-03-15 20:20:54,,open,0,0,pending,lost,CRM
+be_1c3bbd969c,lead_MKTLZKJ49Y,quote_D82795E5,order_FLI4OFWW,2026-03-15 20:35:20,2026-03-17 05:35:20,won,593.39,220.53,sold_on_call,closed_won,CRM
+ui_da1bbd0167,lead_98CQK4LTAH,quote_UKWQVR1H,,2026-03-18 10:36:56,,nurture,0,0,not_interested,qualified,CRM
+ui_f2c117515c,lead_HOY7DV7C9H,quote_X3D43E7B,order_P0RNPM6J,2026-03-27 12:08:17,2026-03-30 15:08:17,won,558.29,238.52,callback_sold,closed_won,CRM
+ui_f61422fcfa,lead_ZX5QJICJDA,quote_N085RNTD,,2026-03-28 18:19:03,,lost,0,0,no_answer,qualified,CRM
+be_53bee0d447,lead_MHNQO7YIRQ,quote_8RTM4J3D,order_NFU84XYJ,2026-03-06 06:24:53,2026-03-06 11:24:53,won,248.42,136.82,callback_sold,closed_won,CRM
+ui_c9901d0171,lead_J0NMEOQ4YR,quote_P5GE094D,,2026-03-12 11:07:21,,lost,0,0,no_answer,lost,CRM
+ui_f03a637c7d,lead_726YG3DXVL,quote_5PVYIOMK,,2026-03-11 01:25:12,,nurture,0,0,callback_requested,nurture,CRM
+be_fb10442d07,lead_MIX7IB5N2E,quote_J0AS1SSR,,2026-03-08 23:16:42,,nurture,0,0,no_answer,qualified,CRM
+ui_615d244f52,lead_YC3RWQMMU7,quote_JAE58HUX,,2026-03-21 16:45:43,,lost,0,0,pending,nurture,CRM
+ui_c5a9d12354,lead_IKWE4BX4LR,quote_9TJQ8ZGV,,2026-03-20 13:46:19,,open,0,0,pending,lost,CRM
+ui_cf37ec424e,lead_VA5KW3HGBM,quote_FBUVLDD9,,2026-03-10 12:07:16,,lost,0,0,no_answer,lost,CRM
+ui_488b91baf7,lead_KT1ELOU83G,quote_47RRBEFQ,order_6Q37CSUY,2026-03-19 13:58:50,2026-03-22 11:58:50,won,185.25,57.93,sold_online,closed_won,CRM
+ui_c405c787b6,lead_JTPK2NLT8D,quote_TM4VXJJ2,order_XO100VHM,2026-03-19 11:20:17,2026-03-20 21:20:17,won,134.19,72.84,callback_sold,closed_won,CRM
+be_2dcc95126b,lead_21B07G2RE6,quote_ZVLHYL2L,,2026-03-29 07:29:00,,nurture,0,0,callback_requested,nurture,CRM
+be_ee60fb866c,lead_U8H0IMJYJC,quote_MRSEZYTK,,2026-03-09 01:26:38,,open,0,0,callback_requested,lost,CRM
+ui_680dd48700,lead_W8BKXCGW1V,quote_GLL42JZN,,2026-03-24 10:03:01,,open,0,0,callback_requested,nurture,CRM
+ui_c59567dcd8,lead_RX37JW3467,quote_0CHQI014,,2026-03-03 17:53:40,,nurture,0,0,callback_requested,lost,CRM
+be_a2df70d19d,lead_54N6O9JD3I,quote_H66W51OB,,2026-03-23 09:31:50,,open,0,0,not_interested,lost,CRM
+ui_ca27a03491,lead_AELYYZZ0JD,quote_CLI6978V,,2026-03-10 19:59:09,,open,0,0,not_interested,qualified,CRM
+be_d9a3f0c2e3,lead_8X8L008UHB,quote_XLBC8NOG,,2026-03-25 13:48:28,,nurture,0,0,callback_requested,qualified,CRM
+ui_45a0e84d46,lead_JSE17QUAMI,quote_0UZ7X4IK,order_2ZYZSILU,2026-03-08 20:29:30,2026-03-12 11:29:30,won,560.35,231.62,sold_online,closed_won,CRM
+ui_767e7fd22b,lead_44EEW1YF0D,quote_WWN6MBYP,order_X5ZU2ZUE,2026-03-09 13:49:40,2026-03-11 02:49:40,won,130.29,55.95,sold_online,closed_won,CRM
+be_a0f2b412e4,lead_XT63QE8NVN,quote_439ENGA0,,2026-03-10 01:46:09,,nurture,0,0,pending,qualified,CRM
+ui_0ced37fdd8,lead_PWDXYASVDA,quote_ZV46ESMR,,2026-03-07 03:23:50,,lost,0,0,not_interested,lost,CRM
+ui_23d805fa31,lead_CBEKGV1BBH,quote_G5ZMTGA4,order_AYN2D7KI,2026-03-10 12:42:54,2026-03-11 02:42:54,won,510.27,170.26,sold_online,closed_won,CRM
+ui_304b2a771a,lead_0GYAJPGZ6T,quote_PBWSXXDY,order_BA117NID,2026-03-22 18:37:06,2026-03-25 04:37:06,won,440.3,212.54,sold_on_call,closed_won,CRM
+ui_dce92b4776,lead_CNPIR7NZBX,quote_FV7FIUXF,,2026-03-04 22:50:56,,lost,0,0,not_interested,nurture,CRM
+be_6646222781,lead_917RMPN693,quote_7XNCMLDQ,,2026-03-29 03:19:36,,lost,0,0,pending,nurture,CRM
+ui_3ffd050c57,lead_G7ZD9B7LNK,quote_ZX8YX7WR,,2026-03-20 19:11:34,,nurture,0,0,pending,qualified,CRM
+be_276fadf85a,lead_YDVN9ZKELZ,quote_5TOZO32T,order_SVZ2E186,2026-03-21 10:02:26,2026-03-21 20:02:26,won,437.12,152.79,sold_on_call,closed_won,CRM
+ui_275ef98ba0,lead_F9PAVCEDTC,quote_XNMJ5IAN,order_ND7G0L3R,2026-03-08 08:37:15,2026-03-09 14:37:15,won,181.66,91.87,callback_sold,closed_won,CRM
+ui_911a90fed3,lead_X7JE5B99HE,quote_XW8L85JE,order_K9WAM0KJ,2026-03-09 04:09:15,2026-03-12 12:09:15,won,228.8,101.33,sold_online,closed_won,CRM
+ui_d763e20e6f,lead_TS1EGPGVTN,quote_4YPKW749,order_DA7D0WTW,2026-03-17 07:31:09,2026-03-17 22:31:09,won,305.92,155.93,callback_sold,closed_won,CRM
+ui_84a4eea0e0,lead_HDPWVBZ7CN,quote_0EQWMI6K,,2026-03-19 13:38:51,,open,0,0,no_answer,lost,CRM
+ui_f088507d64,lead_1RBK9RX647,quote_DI3E950I,order_G6N6975J,2026-03-20 10:20:52,2026-03-20 23:20:52,won,458.79,247.27,callback_sold,closed_won,CRM
+be_16288041ab,lead_G6W04YGYFL,quote_Q8XPA95G,order_V8URID3U,2026-03-25 19:49:04,2026-03-25 22:49:04,won,376.96,175.57,sold_online,closed_won,CRM
+ui_bd12205a34,lead_761M3J1HA0,quote_W52713T8,,2026-03-28 14:16:39,,lost,0,0,not_interested,qualified,CRM
+be_90b0b44ad5,lead_NUXF1X889U,quote_9W0TE52V,,2026-03-03 13:06:04,,lost,0,0,not_interested,nurture,CRM
+ui_1ec4f5a175,lead_LVA02DZ61T,quote_XSNHFT4I,,2026-03-21 14:31:27,,nurture,0,0,no_answer,nurture,CRM
+ui_8637673e65,lead_YRJ8GOSD3M,quote_0XO3FESY,order_R8O1KJWV,2026-03-09 11:17:09,2026-03-09 14:17:09,won,445.97,143.65,sold_online,closed_won,CRM
+ui_b704175ea4,lead_BV03DS0MWK,quote_OG0Z0C68,,2026-03-15 18:40:59,,lost,0,0,callback_requested,lost,CRM
+ui_e3739fcf81,lead_6IZC0YOSQN,quote_285TZV9Z,,2026-03-22 06:55:41,,open,0,0,not_interested,lost,CRM
+ui_18f0251dea,lead_Z1C25XNOFG,quote_7803G5DF,order_HON4WBAB,2026-03-11 12:53:43,2026-03-14 05:53:43,won,156.91,70.44,callback_sold,closed_won,CRM
+ui_17d928c2ab,lead_2W29AW4IOA,quote_R4G58O9Q,,2026-03-15 04:49:11,,lost,0,0,pending,nurture,CRM
+be_2462fcaf5b,lead_IGCUIDC00M,quote_6CU88WLX,,2026-03-09 08:18:12,,nurture,0,0,callback_requested,lost,CRM
+ui_7fa5499985,lead_JQ12JF4CIW,quote_L3RFJL9V,order_H3G7VKC5,2026-03-22 08:09:23,2026-03-25 06:09:23,won,571.75,183.72,callback_sold,closed_won,CRM
+ui_add6f73d05,lead_S4WVT3F2F3,quote_HYCPESBD,,2026-03-23 13:05:42,,lost,0,0,pending,nurture,CRM
+be_656b463697,lead_9BL14HOAE5,quote_27PSQZN7,order_0JESGQ4B,2026-03-31 22:59:51,2026-04-04 11:59:51,won,179.5,69.19,sold_online,closed_won,CRM
+ui_c47e8d864f,lead_DPLFE19BCD,quote_TED0PBXC,order_MWJPIWUJ,2026-04-03 14:24:15,2026-04-04 06:24:15,won,516.06,263.72,sold_on_call,closed_won,CRM
+be_e348310acf,lead_4IVN2QQZZF,quote_VB9EKTR1,order_TOS87MVZ,2026-03-09 21:42:22,2026-03-12 21:42:22,won,617.17,318.3,sold_on_call,closed_won,CRM
+ui_71fcaf022f,lead_7ZXDFLD9CB,quote_A7263RJK,order_CWEQ4F1S,2026-03-22 22:17:52,2026-03-25 19:17:52,won,276.93,117.0,sold_online,closed_won,CRM
+ui_202d612166,lead_STY876795F,quote_9TU8PV2K,order_V724HK1Q,2026-03-11 00:43:27,2026-03-12 11:43:27,won,593.02,184.84,sold_online,closed_won,CRM
+ui_b123e5d829,lead_OE19BP0L70,quote_SHYVNI8E,order_1493685E,2026-03-29 15:05:50,2026-04-01 16:05:50,won,162.96,54.31,callback_sold,closed_won,CRM
+ui_fea12636df,lead_C4X56V3DGS,quote_9GT0R0VI,,2026-03-26 18:11:32,,open,0,0,pending,nurture,CRM
+ui_40e5f69a90,lead_G107G8O8G8,quote_HZMVYD47,order_UON8RJN4,2026-03-07 14:49:56,2026-03-08 05:49:56,won,554.6,294.09,callback_sold,closed_won,CRM
+ui_a8214d869f,lead_RHTMT1OZXG,quote_GMQJ9UJE,,2026-03-27 07:14:29,,open,0,0,pending,qualified,CRM
+ui_b524909a97,lead_FE980TW87S,quote_34876KE1,order_85S0I99N,2026-03-25 11:06:30,2026-03-27 22:06:30,won,169.44,89.71,callback_sold,closed_won,CRM
+ui_d02e442115,lead_J2O4Q067CS,quote_ZVUTBT6A,,2026-03-14 13:27:03,,open,0,0,callback_requested,lost,CRM
+ui_ee0176b39c,lead_BOMVIBZYFG,quote_GK82P5YR,order_ELCACK9D,2026-03-21 23:26:30,2026-03-24 04:26:30,won,296.9,142.24,callback_sold,closed_won,CRM
+be_e42bcda621,lead_XKQ054CFG7,quote_9KT10R70,,2026-03-11 17:10:02,,nurture,0,0,pending,nurture,CRM
+be_7955927176,lead_R4L2E4F4N3,quote_ZA0CO76O,,2026-04-02 20:31:39,,lost,0,0,callback_requested,qualified,CRM
+ui_b05fd7d207,lead_LTH11BLF1X,quote_OYC6H52M,order_S5I5FTOJ,2026-03-22 08:42:19,2026-03-23 18:42:19,won,354.31,153.49,sold_on_call,closed_won,CRM
+ui_0b905fe68b,lead_RN4FLHW3CH,quote_NJ6GDTGC,order_XU2HHLDA,2026-03-17 06:51:48,2026-03-18 07:51:48,won,414.7,116.87,callback_sold,closed_won,CRM
+ui_dbdc352615,lead_ZJ42RL1EH8,quote_HYF87SW1,order_JFUY0F39,2026-03-20 18:39:01,2026-03-22 09:39:01,won,436.01,231.98,sold_on_call,closed_won,CRM
+ui_1a84a71375,lead_Z6WQUQB8RC,quote_P6I29GPO,order_QMUTWXPI,2026-03-30 18:01:16,2026-03-30 23:01:16,won,122.05,62.95,sold_online,closed_won,CRM
+ui_b200eb836d,lead_E7ZMVUTIYM,quote_R0AZ0ZNZ,,2026-03-06 11:52:31,,lost,0,0,not_interested,qualified,CRM
+ui_3482a51b6d,lead_VBBBVMIA63,quote_YMDDVXKK,,2026-03-18 05:09:32,,lost,0,0,pending,qualified,CRM
+be_3f0421cf85,lead_DB68ZA0PL8,quote_109JNB5X,order_9PHWN8DD,2026-03-28 01:07:31,2026-03-28 21:07:31,won,599.19,181.71,sold_online,closed_won,CRM
+ui_5be18177c2,lead_XTXIXCDL9T,quote_15KCK4ZY,,2026-03-29 07:33:40,,lost,0,0,no_answer,lost,CRM
+ui_ebe67c092b,lead_KPCSW2MSG0,quote_G1ZZROG0,order_OEVGKH25,2026-03-27 19:56:37,2026-03-29 07:56:37,won,557.36,202.86,sold_on_call,closed_won,CRM
+ui_606600be1a,lead_1OO5VYFRRL,quote_OA8O34LP,order_AQX16OEM,2026-03-15 13:15:28,2026-03-18 00:15:28,won,254.08,74.98,callback_sold,closed_won,CRM
+be_e9579bcea8,lead_RI7FZ5XBIG,quote_UJ9CWI2S,,2026-03-24 11:01:38,,open,0,0,pending,qualified,CRM
+ui_85c682a565,lead_XCBY0T0I91,quote_KCJUVPCV,,2026-03-08 21:33:49,,lost,0,0,pending,nurture,CRM
+ui_0e376365b1,lead_LWJOJAFI4C,quote_KOM5F33D,order_I1NCV10X,2026-03-26 15:22:49,2026-03-28 18:22:49,won,319.69,165.67,sold_online,closed_won,CRM
+be_e802c5bfdc,lead_KUKPXPSBTN,quote_BDZRILUL,,2026-03-15 11:54:17,,nurture,0,0,pending,qualified,CRM
+be_526f55d4c6,lead_UVIV6TXOMI,quote_8CO2XZDI,,2026-03-13 01:03:27,,open,0,0,no_answer,qualified,CRM
+ui_f6afd4c8c1,lead_UB1SB7AC6D,quote_K57ICL12,,2026-03-21 10:59:24,,nurture,0,0,callback_requested,qualified,CRM
+ui_f8b0f79123,lead_ZJ7IZVA3T8,quote_62VL1TKU,order_AP8UBK6S,2026-04-04 12:55:38,2026-04-08 12:55:38,won,327.01,116.59,sold_online,closed_won,CRM
+ui_7f9d017e21,lead_CCAZXPNGMZ,quote_YZC0MVAQ,order_3FA2M2H0,2026-03-13 03:06:48,2026-03-16 12:06:48,won,216.11,61.29,callback_sold,closed_won,CRM
+ui_a76da332a1,lead_CE3SKSO6DK,quote_FLAB0QM6,order_1UZ5ZCFP,2026-03-21 19:10:43,2026-03-24 21:10:43,won,600.98,288.36,sold_on_call,closed_won,CRM
+ui_e538014ddc,lead_OGQ2H5CFGK,quote_7H3I8NO7,order_W9JPKPF3,2026-03-13 03:34:11,2026-03-15 06:34:11,won,597.84,264.25,callback_sold,closed_won,CRM
+ui_d062767935,lead_2NAFH6Q9Y4,quote_YZKMRU4E,,2026-03-23 12:36:37,,nurture,0,0,callback_requested,qualified,CRM
+ui_416e5ad3a1,lead_F3G1PUXJCN,quote_0CL5NKDI,,2026-03-16 04:02:16,,open,0,0,pending,nurture,CRM
+be_c598532e6a,lead_M5VGYWI7ZW,quote_PD1OTXS3,,2026-03-07 21:45:59,,lost,0,0,no_answer,lost,CRM
+ui_ad460ac094,lead_EUN5A8XAEJ,quote_GNZFZUNQ,order_W9ZL5Y31,2026-04-01 11:25:11,2026-04-05 11:25:11,won,507.11,193.38,sold_online,closed_won,CRM
+ui_94d62748d6,lead_VPA47V8PRC,quote_MZZ3T7EY,order_PI288H23,2026-03-12 18:50:06,2026-03-16 16:50:06,won,244.31,71.57,callback_sold,closed_won,CRM
+ui_cc4a75a8b3,lead_CITEGB1DIN,quote_DLFDTTNI,order_10YC1NE2,2026-03-24 21:12:14,2026-03-25 03:12:14,won,460.26,256.5,callback_sold,closed_won,CRM
+ui_051b107013,lead_22Y4LGQTCD,quote_21W2KJNV,order_WMOEGPCP,2026-03-30 16:57:46,2026-03-31 12:57:46,won,312.73,138.76,sold_online,closed_won,CRM
+ui_05318d74f2,lead_7NVKBJN7FD,quote_TGSKEGDE,,2026-03-16 19:27:52,,nurture,0,0,pending,lost,CRM
+be_ae8d2df3a2,lead_1GX1DOC5HW,quote_GPBYEXZ9,,2026-03-21 09:06:22,,open,0,0,no_answer,nurture,CRM
+ui_4fd4aa24cc,lead_EX4KNYSGOH,quote_KSV8JRD8,,2026-04-03 12:29:33,,open,0,0,not_interested,qualified,CRM
+ui_fed26faea0,lead_4UCCIL9X3C,quote_V1SVOLCT,order_5S0Q7OC0,2026-03-04 14:04:50,2026-03-08 07:04:50,won,470.49,228.31,sold_online,closed_won,CRM
+ui_bb55958942,lead_JKKEGVKA65,quote_FZ2RIMC6,order_Z4O75RDD,2026-03-12 15:50:50,2026-03-16 08:50:50,won,498.26,214.08,sold_on_call,closed_won,CRM
+ui_50b74b6109,lead_D6F0N3IT2V,quote_QYMHP9NY,order_ZVBCETH2,2026-03-20 07:22:24,2026-03-22 06:22:24,won,173.26,79.33,callback_sold,closed_won,CRM
+ui_638e64e09f,lead_WQDWOL61VA,quote_2J2BUZRA,order_E39ZVYEC,2026-03-25 08:15:55,2026-03-27 00:15:55,won,233.34,73.04,sold_online,closed_won,CRM
+ui_62df6026bc,lead_1FTGUN8URU,quote_7M1VD7CR,,2026-03-26 17:09:39,,open,0,0,not_interested,qualified,CRM
+ui_3a85364c7d,lead_T64VZ90HED,quote_MAMKRQ2V,,2026-03-22 12:52:28,,nurture,0,0,pending,lost,CRM
+be_0308f6db06,lead_2BPIMEVGXB,quote_T66KFG7I,,2026-03-30 02:28:16,,lost,0,0,not_interested,nurture,CRM
+be_54689ab0e6,lead_IFU43U41VS,quote_VDT7663C,order_2XCV96Q3,2026-03-10 01:24:04,2026-03-11 06:24:04,won,455.81,150.32,callback_sold,closed_won,CRM
+be_6c7e434a54,lead_ACZRRE5OZ8,quote_3EJFBOVB,order_ZJ396YFI,2026-03-23 20:03:53,2026-03-24 08:03:53,won,603.77,171.21,sold_on_call,closed_won,CRM
+ui_58dfc113ff,lead_9WXN91TFRS,quote_A8ZFAWTY,order_QWQMKQI0,2026-03-06 06:05:28,2026-03-07 21:05:28,won,562.06,198.33,sold_online,closed_won,CRM
+ui_d571650acd,lead_FMQLOAEBI8,quote_BNQ49DMX,order_UBJ74F55,2026-03-15 06:06:18,2026-03-18 02:06:18,won,259.62,107.12,callback_sold,closed_won,CRM
+ui_dda4f51b2a,lead_JWU7SA7IDI,quote_09KGW8C4,order_IP3M7ZUM,2026-03-24 11:55:09,2026-03-24 15:55:09,won,239.41,71.15,sold_online,closed_won,CRM
+ui_1bff431ce6,lead_4IZJEZ909O,quote_08NE4XLW,order_OBBC83Y0,2026-03-03 11:57:18,2026-03-04 11:57:18,won,420.34,127.33,sold_on_call,closed_won,CRM
+ui_d444f66470,lead_2TBST9XWI7,quote_084L9GM5,,2026-03-15 12:55:56,,lost,0,0,pending,nurture,CRM
+ui_178034fc8c,lead_1YDOT948U6,quote_B15X8G1H,,2026-04-01 14:21:19,,lost,0,0,not_interested,lost,CRM
+be_b06d42aef2,lead_TZQTTAAZVO,quote_RQ59D6SV,order_TFS2E2FO,2026-03-25 00:07:28,2026-03-25 21:07:28,won,548.14,164.92,callback_sold,closed_won,CRM
+ui_68c1da6ff9,lead_GRX0B3CIPT,quote_NPNZXKCB,order_D7UAYBDT,2026-03-04 12:18:11,2026-03-04 22:18:11,won,582.71,200.63,callback_sold,closed_won,CRM
+be_87c061b498,lead_QNBIA9RU3P,quote_C0OXIHWM,order_ZRMPGX44,2026-03-26 13:42:12,2026-03-30 00:42:12,won,443.02,139.75,callback_sold,closed_won,CRM
+be_ecb4f0b9f6,lead_2AJGZ36N3F,quote_RLUZK3VJ,,2026-03-19 00:58:49,,nurture,0,0,no_answer,qualified,CRM
+ui_98ab9a453d,lead_QI31HO4X8S,quote_CX401L51,order_81UN1COQ,2026-03-29 11:36:22,2026-03-29 16:36:22,won,454.16,134.7,sold_online,closed_won,CRM
+ui_891b0b1f14,lead_OO3T91AAY0,quote_A1V9Q3R1,order_W1PZ117I,2026-03-23 06:54:54,2026-03-26 03:54:54,won,179.16,70.72,sold_on_call,closed_won,CRM
+be_6766a1921f,lead_B0AHI1YWT3,quote_HKO1CMRT,,2026-03-20 02:08:28,,nurture,0,0,pending,lost,CRM
+ui_d25a839245,lead_CYBLOP6XOY,quote_BXIKPDKU,order_TIUMW6AS,2026-03-09 06:22:03,2026-03-12 22:22:03,won,242.8,106.92,sold_online,closed_won,CRM
+ui_9a65f87c47,lead_L9GDMBIQAT,quote_H5PKP6VC,order_OPQ0UX5P,2026-03-07 06:07:21,2026-03-09 21:07:21,won,353.95,190.9,sold_on_call,closed_won,CRM
+ui_b899e71f0c,lead_B67RIZ2H4Q,quote_4VTYK1DE,,2026-03-18 23:08:27,,nurture,0,0,no_answer,qualified,CRM
+ui_d11d3dece2,lead_P7SRK58HEG,quote_IVJB5AQY,order_055S2ULQ,2026-03-22 09:28:29,2026-03-24 02:28:29,won,444.63,180.43,callback_sold,closed_won,CRM
+be_ca29ed8d87,lead_7GWR17H4GY,quote_MRRQSRNH,order_PH1DJVVH,2026-03-14 18:16:24,2026-03-17 19:16:24,won,279.38,80.38,sold_on_call,closed_won,CRM
+be_bd0f658bda,lead_7S9R37V386,quote_9OJRGHR4,,2026-03-21 18:22:11,,nurture,0,0,pending,lost,CRM
+ui_99ff1b3e7e,lead_KJEGCAEQ5S,quote_222J0CRS,order_SJJJBUUL,2026-03-21 08:39:52,2026-03-24 17:39:52,won,416.33,207.64,sold_on_call,closed_won,CRM
+ui_a581d87d38,lead_0540SEJOKI,quote_LP4VN2V2,,2026-03-17 13:21:05,,lost,0,0,pending,lost,CRM
+be_5345fe5621,lead_IONB7YICYB,quote_U8SSMY9B,order_2TVDNHBO,2026-03-28 12:57:03,2026-03-30 13:57:03,won,399.28,132.47,sold_on_call,closed_won,CRM
+ui_3bc06b36eb,lead_J86FBOJPGJ,quote_JBKDYPJZ,order_EICUUSYX,2026-03-26 17:26:25,2026-03-28 18:26:25,won,614.06,328.82,sold_on_call,closed_won,CRM
+ui_520296fc3e,lead_7AR00NHPA1,quote_69DTQM73,order_KQ8FKCEK,2026-03-11 02:06:26,2026-03-11 18:06:26,won,131.25,51.96,sold_online,closed_won,CRM
+ui_64bcaab920,lead_3MZWTY257W,quote_UQQ4TNDN,,2026-03-06 00:40:22,,nurture,0,0,no_answer,lost,CRM
+ui_19f6a09db0,lead_YSQRRBJVEN,quote_E8DMX1VO,order_BRHLVO2Y,2026-03-19 04:08:43,2026-03-21 13:08:43,won,439.65,221.22,callback_sold,closed_won,CRM
+ui_b0376add4e,lead_3MLOF683MJ,quote_OZGXUA4D,,2026-03-21 02:08:53,,nurture,0,0,not_interested,lost,CRM
+ui_9e41101dfb,lead_90F00JGO4W,quote_9F9L785F,order_P23RB1W0,2026-03-30 19:39:26,2026-04-02 17:39:26,won,547.86,228.08,sold_on_call,closed_won,CRM
+ui_1c445b2551,lead_1M4Y04LF3C,quote_F08P1R3C,order_V8I969SF,2026-03-12 18:36:02,2026-03-14 11:36:02,won,95.01,45.36,sold_online,closed_won,CRM
+ui_16100d0043,lead_75HRXEHTTU,quote_WX2BSIJE,,2026-03-19 13:24:18,,nurture,0,0,no_answer,lost,CRM
+be_f8967fd8ce,lead_PRSJJ8EK38,quote_CJTQEAEQ,,2026-03-09 10:21:19,,open,0,0,not_interested,lost,CRM
+be_e0d0aedd90,lead_HYBFGEEIT8,quote_ABRL414C,,2026-03-31 13:09:40,,nurture,0,0,callback_requested,nurture,CRM
+be_07a2ab3ec7,lead_IZNQ782D0P,quote_Y9B7OXYV,order_AJJO5OKH,2026-04-02 21:09:12,2026-04-03 04:09:12,won,469.02,162.71,sold_on_call,closed_won,CRM
+ui_632d01c292,lead_NU4H6FQ3RW,quote_K3OTZZRB,,2026-03-13 06:14:06,,open,0,0,no_answer,lost,CRM
+ui_6b887ff44e,lead_4TJH56RNCK,quote_RPEQW6YQ,order_RTGBJBI9,2026-03-18 02:12:19,2026-03-18 21:12:19,won,125.7,43.41,callback_sold,closed_won,CRM
+ui_ef2733e9e5,lead_09W7WAP0O0,quote_N5WIQLD3,,2026-03-07 02:42:38,,lost,0,0,pending,qualified,CRM
+be_2f10ec2f2e,lead_28SIE7COC0,quote_WKN4W1W3,,2026-04-03 12:19:55,,lost,0,0,callback_requested,lost,CRM
+be_9f5cbd8ca9,lead_NM2XQQ0VBQ,quote_6771L6R4,order_32M7FCGL,2026-03-20 11:47:18,2026-03-23 12:47:18,won,258.67,84.73,sold_on_call,closed_won,CRM
+ui_3570b6ef25,lead_H0RNWK1S2A,quote_KA9B4FHH,,2026-03-05 05:37:13,,open,0,0,callback_requested,lost,CRM
+ui_a245d7b6d9,lead_4P4E6FE81D,quote_ULJ7XA4E,order_UJ2G430L,2026-03-17 09:13:03,2026-03-19 02:13:03,won,500.66,274.29,sold_on_call,closed_won,CRM
+ui_c8880231fc,lead_B1V4AKXK3L,quote_QW3BY1FU,,2026-03-25 04:41:17,,lost,0,0,no_answer,nurture,CRM
