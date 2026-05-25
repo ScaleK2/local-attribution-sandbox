@@ -1,13 +1,23 @@
+from pathlib import Path
+
 import duckdb
 
-con = duckdb.connect("output/attribution_sandbox.duckdb")
+REPO_ROOT = Path(__file__).resolve().parents[2]
+OUTPUT_DIR = REPO_ROOT / "output"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+DB_PATH = OUTPUT_DIR / "attribution_sandbox.duckdb"
 
-con.execute("""
+con = duckdb.connect(str(DB_PATH))
+
+ga4_events_csv = (REPO_ROOT / 'data' / 'ga4_events.csv').as_posix()
+backend_outcomes_csv = (REPO_ROOT / 'data' / 'backend_outcomes.csv').as_posix()
+
+con.execute(f"""
 CREATE OR REPLACE TABLE ga4_events AS
-SELECT * FROM read_csv_auto('data/ga4_events.csv');
+SELECT * FROM read_csv_auto('{ga4_events_csv}');
 
 CREATE OR REPLACE TABLE backend_outcomes AS
-SELECT * FROM read_csv_auto('data/backend_outcomes.csv');
+SELECT * FROM read_csv_auto('{backend_outcomes_csv}');
 
 CREATE OR REPLACE TABLE stitched_events AS
 SELECT

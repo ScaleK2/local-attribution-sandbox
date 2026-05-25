@@ -1,6 +1,13 @@
+from pathlib import Path
+
 import duckdb
 
-con = duckdb.connect("output/attribution_sandbox.duckdb")
+REPO_ROOT = Path(__file__).resolve().parents[2]
+OUTPUT_DIR = REPO_ROOT / "output"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+DB_PATH = OUTPUT_DIR / "attribution_sandbox.duckdb"
+
+con = duckdb.connect(str(DB_PATH))
 
 print("\n=== TABLE STRUCTURE ===")
 print(con.execute("""

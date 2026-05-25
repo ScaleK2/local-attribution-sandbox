@@ -191,15 +191,15 @@ pip install -r requirements.txt
 Run scripts sequentially:
 
 ```bash
-python scripts/01_stitch_data.py
-python scripts/02_validate_data.py
-python scripts/03_check_backend_truth_vs_stitched.py
-python scripts/04_backend_first_conversion_journeys.py
-python scripts/05_build_touchpoint_attribution.py
-python scripts/06_linear_attribution.py
-python scripts/07_position_based_attribution.py
-python scripts/08_time_decay_attribution.py
-python scripts/09_compare_attribution_models.py
+python scripts/core/01_stitch_data.py
+python scripts/core/02_validate_data.py
+python scripts/core/03_check_backend_truth_vs_stitched.py
+python scripts/core/04_backend_first_conversion_journeys.py
+python scripts/core/05_build_touchpoint_attribution.py
+python scripts/core/06_linear_attribution.py
+python scripts/core/07_position_based_attribution.py
+python scripts/core/08_time_decay_attribution.py
+python scripts/core/09_compare_attribution_models.py
 ```
 
 ---
@@ -255,17 +255,18 @@ local-attribution-sandbox/
 │   ├── master_user_simulation.csv
 │
 ├── scripts/
-│   ├── 01_stitch_data.py
-│   ├── 02_validate_data.py
-│   ├── 03_check_backend_truth_vs_stitched.py
-│   ├── 04_backend_first_conversion_journeys.py
-│   ├── 05_build_touchpoint_attribution.py
-│   ├── 06_linear_attribution.py
-│   ├── 07_position_based_attribution.py
-│   ├── 08_time_decay_attribution.py
-│   ├── 09_compare_attribution_models.py
+│   ├── core/
+│   │   ├── 01_stitch_data.py
+│   │   ├── 02_validate_data.py
+│   │   ├── 03_check_backend_truth_vs_stitched.py
+│   │   ├── 04_backend_first_conversion_journeys.py
+│   │   ├── 05_build_touchpoint_attribution.py
+│   │   ├── 06_linear_attribution.py
+│   │   ├── 07_position_based_attribution.py
+│   │   ├── 08_time_decay_attribution.py
+│   │   ├── 09_compare_attribution_models.py
 │
-├── outputs/
+├── output/
 │
 ├── docs/
 │   ├── setup_guide.pdf
@@ -304,12 +305,12 @@ pip install duckdb pandas
 
 # Running the Project
 
-Run scripts sequentially.
+Run scripts sequentially. These scripts resolve paths from their own location, so they can be launched from any working directory.
 
 Example:
 
 ```bash
-python scripts/01_stitch_data.py
+python scripts/core/01_stitch_data.py
 ```
 
 Then continue through the pipeline.
